@@ -1,0 +1,1 @@
+MR12U V2 openwrt 
